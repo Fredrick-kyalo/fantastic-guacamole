@@ -1,0 +1,49 @@
+body{
+    background-image: url(cayoti.jpg);
+}
+h1{
+    text-align: center;
+}
+#userequests{
+    display: none;
+}
+#progress{
+    display: none;
+}
+#usereviews{
+    display: none;
+}
+.dash{
+    display: non;
+}
+.one{
+    cursor: pointer;
+    color: lightgreen;
+}
+.prog{
+    cursor: pointer;
+}
+.NOTIFY{
+    color: lightsalmon;
+}
+#TRENDING{
+    display: none;
+} 
+#colorone{
+    background-color: aquamarine;
+}
+#colortwo{
+    background-color: aquamarine;
+}
+#colorthree{
+    background-color: aquamarine;
+}
+#colorfour{
+    background-color: aquamarine;
+}
+.card{
+    background-color:navajowhite;
+}
+#dp{
+    padding-left: 42%;
+}
