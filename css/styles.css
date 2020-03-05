@@ -30,7 +30,7 @@ h1{
     display: none;
 } 
 #colorone{
-    background-color: purple;
+    background-color: turquoise;
 }
 #colortwo{
     background-color: orchid;
@@ -46,4 +46,7 @@ h1{
 }
 #dp{
     padding-left: 42%;
+}
+.jumbotron{
+    background-color: teal;
 }
